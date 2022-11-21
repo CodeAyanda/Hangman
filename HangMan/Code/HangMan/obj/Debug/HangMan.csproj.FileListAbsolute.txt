@@ -1,0 +1,20 @@
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\bin\Debug\HangMan.exe
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.Form1.resources
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.Cache
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.exe
+c:\users\ayanda gumede\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\Ayanda Gumede\Documents\Visual Studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.csproj.AssemblyReference.cache
+C:\Users\Ayanda Gumede\Documents\Visual Studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\217023113\Desktop\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\217023113\Desktop\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\217023113\Desktop\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\217023113\Desktop\HangMan\HangMan\obj\Debug\HangMan.csproj.AssemblyReference.cache
+C:\Users\217023113\Desktop\HangMan\HangMan\obj\Debug\HangMan.Form1.resources
+C:\Users\217023113\Desktop\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\217023113\Desktop\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\217023113\Desktop\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\217023113\Desktop\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\217023113\Desktop\HangMan\HangMan\obj\Debug\HangMan.pdb
