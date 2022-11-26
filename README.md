@@ -1,6 +1,6 @@
 # Hangman
 The hardest hangman game. Three Words Right in a row is unheard of...
-All images were created using windows Paint.
+All images were created using windows Paint. Explores ways of traversing strings.
 
 Play Game : Download 'Run' folder. Open Hangman.exe
 
