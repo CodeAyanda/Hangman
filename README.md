@@ -1,5 +1,5 @@
 # Hangman
-The hardest hangman game. Three Words Right in a row is unheard of... The game uses 250+ of the hardest Hangman Words.
+The hardest hangman game. Three Words Right in a row is unheard of. The game uses 250+ of the hardest Hangman Words.
 All images were created using windows Paint. Explores ways of traversing strings.
 
 Play Game : Download 'Run' folder. Open Hangman.exe
